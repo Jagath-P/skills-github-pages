@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Github pages demo
+<h1>Github pages demo</h1>
 ---
 
